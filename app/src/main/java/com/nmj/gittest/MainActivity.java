@@ -3,6 +3,10 @@ package com.nmj.gittest;
 import android.app.Activity;
 import android.os.Bundle;
 
+/**
+ * 1
+ *
+ */
 public class MainActivity extends Activity {
 
     @Override
