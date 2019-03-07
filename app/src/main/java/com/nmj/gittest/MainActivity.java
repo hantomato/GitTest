@@ -8,7 +8,7 @@ import android.os.Bundle;
  * 2
  * 3
  * 4
- *
+ * second job 시작해보자.
  */
 public class MainActivity extends Activity {
 
